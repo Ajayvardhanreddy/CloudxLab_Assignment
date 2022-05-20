@@ -1,5 +1,5 @@
-<div align="center">
-<h1>CloudxLab Assignment</h1>
+<div align="center"><img src="https://cxl-web-prod-static.s3.amazonaws.com/cxl/images/logo.png" width="400"/>
+<br/><h1>CloudxLab Assignment</h1>
 <br/></div><br/>
 
 
@@ -135,6 +135,9 @@ Open http://127.0.0.1:8000/admin or http://localhost:8000/admin, enter the super
 ## Success:
 If everything is good and has been done successfully, your **Django Project** should be hosted on port 8000 i.e http://127.0.0.1:8000/ or http://localhost:8000/ to serve you.
 
+## Docker:
+<img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" width="400" />
 
+For Docker image of this assignment, visit https://hub.docker.com/r/ajayvardhan8096/cloudxlab_assignment_web
 
 
